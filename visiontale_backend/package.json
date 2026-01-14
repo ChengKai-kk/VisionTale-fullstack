@@ -1,0 +1,13 @@
+{
+  "name": "visiontale_backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
